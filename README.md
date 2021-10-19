@@ -16,6 +16,3 @@ luego
 ```js
 npm start 
 ```
-
-## Live DEMO
-https://app-oitments.herokuapp.com
